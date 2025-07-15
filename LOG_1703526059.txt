@@ -1,0 +1,203 @@
+     [17:40:59] --- Started Log ---
+     [17:40:59] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #378)
+     [17:40:59] from commit eda440e0db028587975c867dbacb513d80df4dca built at: Mon Aug 21 11:55:04 UTC 2023
+     [17:40:59] Creating new server instance...
+     [17:40:59] Reading server config...
+     [17:40:59] Starting server...
+Info [17:40:59] Compatible clients: 1.8.x-1.14.4
+Warn [17:40:59] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+Warn [17:40:59] WebServer: The server will run in unsecured HTTP mode.
+Info [17:40:59] Put a valid HTTPS certificate in file 'webadmin/httpscert.crt' and its corresponding private key to 'webadmin/httpskey.pem' (without any password) to enable HTTPS support
+     [17:41:00] Loaded 789 crafting recipes
+     [17:41:00] Loaded 1.12.2 380 recipe book
+Warn [17:41:00] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+Warn [17:41:00] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+     [17:41:00] Loaded 67 furnace recipes and 66 fuels
+     [17:41:00] Loaded 49 brewing recipes
+Warn [17:41:00] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [17:41:00] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [17:41:00] -- Loading Plugins --
+     [17:41:00] [Core] Initialised!
+     [17:41:00] [ChatLog] Initialized ChatLog v.3
+     [17:41:00] [Login] Login is initialized
+     [17:41:00] [HomeSetter] HomeSetter v.4 loaded!
+Warn [17:41:00] cPlugin:GetLocalDirectory() is obsolete, use cPlugin:GetLocalFolder() instead.
+Warn [17:41:00] Stack trace:
+Warn [17:41:00]   [C](-1): GetLocalDirectory
+Warn [17:41:00]   Plugins/Broadcast/main.lua(17): (no name)
+Warn [17:41:00] Stack trace end
+     [17:41:00] [Broadcast] Initializing Broadcast v3
+Warn [17:41:00] Can't load plugin SignColor because of a load error in file Plugins/SignColor/main.lua: 3 (Plugins/SignColor/main.lua:82: <name> or '...' expected near '"SignColor"')
+     [17:41:00] [CRTP] Initialised CRTP v.1
+     [17:41:00] -- Loaded 7 Plugins --
+     [17:41:01] Preparing spawn (world): 84.75% (339/400; 335.64 chunks / sec)
+     [17:41:03] Preparing spawn (world_nether): 31.00% (124/400; 111.51 chunks / sec)
+     [17:41:04] Preparing spawn (world_nether): 75.25% (301/400; 176.47 chunks / sec)
+Warn [17:41:05] World "world_the_end": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 76, 0}
+Info [17:41:05] WebAdmin is running on port(s) 80
+     [17:41:05] Startup complete, took 5868ms!
+     [17:41:22] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [17:41:22] Player ViggYeer25609 has joined the game
+Warn [17:41:22] AddEntity: Entity at 0x7fe62401cac0 (cPlayer, ID 677) spawning in a non-existent chunk.
+Err  [17:41:25] Value u in AddChatPartStyle() is deprecated
+Err  [17:41:28] Value u in AddChatPartStyle() is deprecated
+Info [17:41:28] Player ViggYeer25609 has left the game
+     [17:41:36] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [17:41:36] Player ViggYeer256 has joined the game
+Warn [17:41:36] AddEntity: Entity at 0x7fe6240cd940 (cPlayer, ID 998) spawning in a non-existent chunk.
+Err  [17:41:39] Value u in AddChatPartStyle() is deprecated
+Err  [17:41:42] Value u in AddChatPartStyle() is deprecated
+Err  [17:41:44] Value u in AddChatPartStyle() is deprecated
+Err  [17:41:47] Value u in AddChatPartStyle() is deprecated
+     [17:41:48] Player ViggYeer256 is executing command "/login DEEZNUT" in world "world" at world age 291445.
+Warn [17:42:26] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:42:27] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:42:27] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:42:37] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:42:39] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:42:39] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:42:39] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:42:47] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:00] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:01] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:01] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:02] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:02] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:02] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:02] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:03] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:03] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:03] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:03] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:03] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:04] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:04] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:04] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:05] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:05] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:05] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:05] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:06] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:10] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:11] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:12] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:12] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:13] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:13] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:13] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:13] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:13] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:14] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:14] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:18] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:18] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:19] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:19] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:23] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:23] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:23] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:23] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:24] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:24] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:24] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:24] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:24] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:24] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:25] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:25] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:25] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:25] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:30] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:30] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:30] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:30] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:31] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:31] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:31] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:31] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:32] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:33] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:33] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:33] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:33] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:34] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:34] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:37] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:37] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+     [17:43:42] Player ViggYeer256 is executing command "/tps" in world "world" at world age 293700.
+Warn [17:43:46] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:52] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:54] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:56] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:56] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:57] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:57] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:58] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:58] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:43:59] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:00] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:00] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:01] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:01] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:01] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:01] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:02] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:02] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:04] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:04] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:04] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:12] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:13] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:22] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:31] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:32] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:33] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:33] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:37] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:38] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:39] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:44:42] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:23] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:24] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:27] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:27] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:28] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:29] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:29] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:33] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:33] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:38] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:38] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:38] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:39] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:39] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:40] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:40] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:40] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:41] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:41] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:43] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:43] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:45:44] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:47:47] AddEntity: Entity at 0x7fe64805efe0 (cCow, ID 1284) spawning in a non-existent chunk.
+Warn [17:50:46] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:50:47] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:50:53] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:50:53] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:50:53] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:50:53] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:50:54] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:50:56] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:50:56] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:50:56] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:50:56] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:50:57] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:50:59] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:51:01] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:51:01] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:51:02] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:51:02] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:51:02] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:51:02] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:51:02] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
+Warn [17:51:05] AddFaceDirection with X/Y/Z parameters is deprecated, use the vector version
